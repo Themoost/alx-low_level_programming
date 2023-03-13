@@ -39,6 +39,7 @@ int _atoi(char *s)
 		}
 		i++;
 	}
+
 	if (f == 0)
 		return (0);
 
@@ -48,7 +49,7 @@ int _atoi(char *s)
 /**
  * main - multiplies two numbers
  * @argc: number of arguments
- * @argc: array of arguments
+ * @argv: array of arguments
  *
  * Return: 0 (Success), 1 (Error)
  */
