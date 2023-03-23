@@ -1,9 +1,9 @@
 #ifndef CALC_H
 #define CALC_H
 /**
- * struct op - A strct op.
- * @op: The operstor.
- * @f: The assciated function.
+ * struct op - A struct op.
+ * @op: The operator.
+ * @f: The associated function.
  */
 typedef struct op
 {
